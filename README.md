@@ -3,7 +3,7 @@
 ## Documents
 
 - Tiếng Việt
-  - [Git](./vn/git/README.md)
+  - [Git](./vn/README.md#git)
 
 ## Contributers
 
