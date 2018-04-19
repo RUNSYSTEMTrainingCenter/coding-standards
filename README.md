@@ -1,8 +1,6 @@
 # GMO-Z.com RUNSYSTEM Coding-standards
 
-## Documents
-
-- Tiếng Việt
+## [Tiếng Việt](./vn/README.md)
   - [Git](./vn/README.md#git)
 
 ## Contributers
